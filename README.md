@@ -33,7 +33,7 @@
 
 **[Задание 3: чек-лист API](https://docs.google.com/spreadsheets/d/1jaxpTg5M6bN5v7tTA4IV74pWXPZbkPo6BMU79w4mRKc/edit?gid=336872680#gid=336872680)**
 
-**[Баг-репорты](https://docs.google.com/spreadsheets/d/1jaxpTg5M6bN5v7tTA4IV74pWXPZbkPo6BMU79w4mRKc/edit?gid=1983909015#gid=1983909015)**
+[Баг-репорты](https://docs.google.com/spreadsheets/d/1jaxpTg5M6bN5v7tTA4IV74pWXPZbkPo6BMU79w4mRKc/edit?gid=1983909015#gid=1983909015)
 
 ## Отчёт
 
