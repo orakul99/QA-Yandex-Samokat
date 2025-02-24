@@ -151,11 +151,9 @@ HTTP/1.1 200
 
              "status": 1,
 
-             "color": \[
-
+             "color": [
                  "BLACK"
-
-             \],
+              ],
 
              "comment": "Saske, come back to Kanoha",
 
