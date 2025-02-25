@@ -62,6 +62,6 @@
 
 ### Отзыв Ревьювера
 
- ![](/api/attachments.redirect?id=ed7f11c7-72c5-4425-854c-1c65327dfb2f "aspect=1")
+ ![](https://storage.yandexcloud.net/yonote/uploads/0a29326e-f650-462a-990f-0ad15c158a1d/f6060b4a-4110-44a5-aea4-0517b8dd9264/diplom.jpg "aspect=1")
 
 
