@@ -65,4 +65,4 @@
 
 ### Отзыв Ревьювера
 
-<img src="https://storage.yandexcloud.net/yonote/uploads/0a29326e-f650-462a-990f-0ad15c158a1d/f6060b4a-4110-44a5-aea4-0517b8dd9264/diplom.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/orakul99/QA-Yandex-Samokat/refs/heads/main/diplom.jpg" width="600" />
